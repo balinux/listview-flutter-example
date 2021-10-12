@@ -50,6 +50,7 @@ flutter:
     - assets/images/profile-image.png
     - assets/images/jordan-pluto.png
     - assets/images/jordan-mars.png
+    - assets/images/jordan-uranus.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
